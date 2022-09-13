@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m @isrkan and welcome to my Github profile!
+- 👋 Hi there, I’m Israel and welcome to my Github profile!
 - 👀 I’m interested in machine learning, natural language processing, statistics and econometrics
 - 🌱 I’m currently working as data scientist with +4 yrs of hands-on experience designing and developing solutions using various tools and programming languages.
 - 🧡 I love learning new statistical models and challenging myself to achieve better results 
