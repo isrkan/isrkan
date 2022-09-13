@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m Israel and welcome to my Github profile!
-- 👀 I’m interested in machine learning, natural language processing, statistics and econometrics
+- 👀 I’m interested in ML, NLP, statistics and econometrics
 - 🌱 I’m currently working as data scientist with +4 yrs of hands-on experience designing and developing solutions using various tools and programming languages.
 - 🧡 I love learning new statistical models and challenging myself to achieve better results 
 - 💞️ I’m always looking to collaborate with new people and new projects to work on 
